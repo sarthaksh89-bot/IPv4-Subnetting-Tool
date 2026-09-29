@@ -1,5 +1,5 @@
 # IPv4-Subnetting-Tool
-# 🌐 IPv4 Subnet Calculator (WebAssembly & JavaScript)
+# 🌐 IPv4 Subnet Calculator 
 
 An interactive, web-based IPv4 Subnetting Tool built with C++ and compiled to WebAssembly (Wasm) for high-performance bitwise networking calculations directly inside the web browser.
 
